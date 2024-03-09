@@ -1,0 +1,12 @@
+<div id="ctab_ad"></div>
+<script type="text/javascript">
+var link = document.createElement('a');
+var linkImg = document.createElement('img')
+linkImg.src = 'https://cdn.cryptobrowser.store/media/pb/2408/e22f4271d5e94cbeb76528d637ca00bb.jpg'
+linkImg.srcset = 'https://cdn.cryptobrowser.store/media/pb/2408/82fd0f0f25f74d5f8c9b2592d5a8bf91.jpg 2x'
+link.appendChild(linkImg)
+link.href = 'https://cryptotabfarm.com/join-farm-now/J6WKW9OD';
+link.style.width = '120px';
+link.style.height = '600px';
+document.getElementById('ctab_ad').appendChild(link);
+</script>
